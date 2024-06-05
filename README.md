@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Metrics](https://metrics.lecoq.io/GeneralK1ng?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)
+
 ![General_K1ng's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeneralK1ng&count_private=true&show_icons=true&theme=tokyonight)
