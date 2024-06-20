@@ -1,6 +1,10 @@
 ## Hello, I'm General_K1ng! 👋 <img align="right" align="center" src="https://komarev.com/ghpvc/?username=GeneralK1ng" alt="General_K1ng's GitHub Profile Views" />
 
-> This nickname originated from my elementary school days and has stuck with me ever since. You can also call me General_K1ng.
+> This nickname originated from my elementary school days and has stuck with me ever since. 
+>
+> Cuz my family name is Jin in Chinese, it sounds like King.
+>
+> You can just call me **General_K1ng**.
 
 <img align="right" width="300" src="./img/info.png">
 
@@ -8,19 +12,22 @@
 
 💻 **Love for Computers**: Currently, a beginner in the vast world of computing. 
 
-🎓 **Studying at**: **XJTLU**, majoring in the challenging field of Information and Computing Science. Any fellow students here? 
+- 🎓 **Studying at**: **XJTLU**, majoring in the challenging field of Information and Computing Science. Any fellow students here? 
 
-📍 **Location**: Based in Suzhou, Jiangsu <img align="center" width="25" src="./svg/location/苏州_suzhou.svg" />; often found in Xi'an, Shaanxi <img align="center" width="25" src="./svg/location/西安地铁.svg" />; hometown is Wenzhou, Zhejiang <img align="center" width="25" src="./svg/location/温州轨道交通.svg" />. 
+- 📍 **Location**: 
+  - Based in Suzhou, Jiangsu <img align="center" width="25" src="./svg/location/苏州_suzhou.svg" />; 
+  - often found in Xi'an, Shaanxi <img align="center" width="25" src="./svg/location/西安地铁.svg" />; 
+  - hometown is Wenzhou, Zhejiang <img align="center" width="25" src="./svg/location/温州轨道交通.svg" />. 
 
-🧩 **Hobbies**: Consider myself a casual anime fan?
+- 🧩 **Hobbies**: Consider myself a casual anime fan?
 
-🚀 **Current Projects**: Working on some ~~amateur~~ open-source projects and continuously learning. 
+- 🚀 **Current Projects**: Working on some ~~amateur~~ open-source projects and continuously learning. 
 
-💔 **Current Status**: Single.
+- 💔 **Current Status**: Single.
 
 
 
-**Language Options**: 🇨🇳 [Chinese](#) / 🇬🇧 [English](#)
+**Language Options** <img align="center" width="25" src="./svg/contact/language.svg" />: 🇨🇳 [Chinese](#) / 🇬🇧 [English](#)
 
 **Mail me** <img align="center" width="25" src="./svg/contact/mail.svg" />: General_K1ng@outlook.com
 
