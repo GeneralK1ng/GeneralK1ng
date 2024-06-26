@@ -1,12 +1,14 @@
 ## Hello, I'm General_K1ng! 👋 <img align="right" align="center" src="https://komarev.com/ghpvc/?username=GeneralK1ng" alt="General_K1ng's GitHub Profile Views" />
 
+> <img align="right" width="300" src="./svg/general-k1ng.svg">
+> 
 > This nickname originated from my elementary school days and has stuck with me ever since. 
 >
 > Cuz my family name is Jin in Chinese, it sounds like King.
->
+> 
 > You can just call me **General_K1ng**.
 
-<img align="right" width="300" src="./svg/general-k1ng.svg">
+
 
 <img align="right" width="300" src="./img/info.png">
 
