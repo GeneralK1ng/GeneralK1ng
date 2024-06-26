@@ -12,7 +12,7 @@
 
 ### About Me 
 
-💻 **Love for Computers**: Currently, a beginner in the vast world of computing. 
+- 💻 **Love for Computers**: Currently, a beginner in the vast world of computing. 
 
 - 🎓 **Studying at**: **XJTLU**, majoring in the challenging field of Information and Computing Science. Any fellow students here? 
 
