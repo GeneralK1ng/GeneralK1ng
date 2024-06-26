@@ -6,6 +6,8 @@
 >
 > You can just call me **General_K1ng**.
 
+<img align="right" width="300" src="./svg/general-k1ng.svg">
+
 <img align="right" width="300" src="./img/info.png">
 
 ### About Me 
