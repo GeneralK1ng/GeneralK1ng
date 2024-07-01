@@ -19,7 +19,7 @@
 - 🎓 **Studying at**: **XJTLU**, majoring in the challenging field of Information and Computing Science. Any fellow students here? 
 
 - 📍 **Location**: 
-  - Based in Suzhou, Jiangsu <img align="center" width="25" src="./svg/location/苏州_suzhou.svg" />; 
+  - Based in Suzhou, Jiangsu <img align="center" width="28" src="./svg/location/苏州_suzhou.svg" />; 
   - often found in Xi'an, Shaanxi <img align="center" width="25" src="./svg/location/西安地铁.svg" />; 
   - hometown is Wenzhou, Zhejiang <img align="center" width="25" src="./svg/location/温州轨道交通.svg" />. 
 
