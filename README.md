@@ -33,7 +33,7 @@
 
 **Language Options** <img align="center" width="25" src="./svg/contact/language.svg" />: 🇨🇳 [Chinese](#) / 🇬🇧 [English](#)
 
-**Mail me** <img align="center" width="25" src="./svg/contact/mail.svg" />: General_K1ng@outlook.com
+**Mail me** <img align="center" width="25" src="./svg/contact/mail.svg" />: generak1ng0@gmail.com
 
 
 
