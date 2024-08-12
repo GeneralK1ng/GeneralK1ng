@@ -1,4 +1,4 @@
-## Hello, I'm General_K1ng! 👋 <img align="right" align="center" src="https://komarev.com/ghpvc/?username=GeneralK1ng" alt="General_K1ng's GitHub Profile Views" />
+## Hello, I'm General_K1ng! 👋 <img align="right" align="center" src="https://komarev.com/ghpvc/?username=GeneralK1ng" alt="General_K1ng's GitHub Profile Views" /> <a href="https://wakatime.com/@018b6691-b059-447b-99f2-485851dd63a6"><img align="right" align="center" src="https://wakatime.com/badge/user/018b6691-b059-447b-99f2-485851dd63a6.svg" alt="Total time coded since Oct 25 2023" /></a>
 
 > <img align="right" width="300" src="./svg/general-k1ng.svg">
 > 
@@ -50,7 +50,6 @@
 - 💻 Coding  
 - 📺 Watching anime
 - 🎮 Steam
-
 
 
 Feel free to visit my little corner of the blog <a href="https://generalk1ng.github.io"><code><img width="30" src="./svg/contact/blog.svg"></code></a>
