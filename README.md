@@ -79,8 +79,8 @@ Feel free to visit my little corner of the blog <a href="https://generalk1ng.git
 <a href="https://git-scm.com/"><code><img width="35" src="./svg/tech/git.svg"></code></a>
 <a href="https://www.mysql.com/"><code><img width="35" src="./svg/tech/mysql.svg"></code></a>
 <a href="https://nodejs.org/"><code><img width="35" src="./svg/tech/nodejs.svg"></code></a>
-<a href="https://nodejs.org/"><code><img width="35" src="./svg/tech/zustand.svg"></code></a>
-<a href="https://nodejs.org/"><code><img width="35" src="./svg/tech/expo.svg"></code></a>
+<a href="https://zustand-demo.pmnd.rs/"><code><img width="35" src="./svg/tech/zustand.svg"></code></a>
+<a href="https://expo.dev/"><code><img width="35" src="./svg/tech/expo.svg"></code></a>
 <a href="https://www.docker.com/"><code><img width="35" src="./svg/tech/docker.svg"></code></a>
 <a href="https://www.anaconda.com/"><code><img width="35" src="./svg/tech/anaconda.svg"></code></a>
 <a href="https://redis.io/"><code><img width="35" src="./svg/tech/redis.svg"></code></a>
@@ -93,7 +93,7 @@ Feel free to visit my little corner of the blog <a href="https://generalk1ng.git
 
 <a href="https://spring.io/"><code><img width="35" src="./svg/frame/bxl-spring-boot.svg"></code></a>
 <a href="https://flask.palletsprojects.com/"><code><img width="35" src="./svg/frame/flask.svg"></code></a>
-<a href="https://www.st.com/"><code><img width="40" src="./svg/frame/React.svg"></code></a>
+<a href="https://react.dev/"><code><img width="40" src="./svg/frame/React.svg"></code></a>
 <a href="https://vuejs.org/"><code><img width="35" src="./svg/frame/Vue.svg"></code></a>
 <a href="https://www.st.com/"><code><img width="35" src="./svg/frame/stm32.svg"></code></a>   
 
