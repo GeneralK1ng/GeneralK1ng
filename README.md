@@ -1,99 +1,74 @@
-## Hello, I'm General_K1ng! 👋 <img align="right" align="center" src="https://komarev.com/ghpvc/?username=GeneralK1ng" alt="General_K1ng's GitHub Profile Views" /> <a href="https://wakatime.com/@018b6691-b059-447b-99f2-485851dd63a6"><img align="right" align="center" src="https://wakatime.com/badge/user/018b6691-b059-447b-99f2-485851dd63a6.svg" alt="Total time coded since Oct 25 2023" /></a>
+<!-- GitHub README Optimized Layout -->
+<div align="left">
+  <h2>Hi there! I'm <strong>General_K1ng</strong>! 👋</h2>
+  <div>
+    <a href="https://wakatime.com/@018b6691-b059-447b-99f2-485851dd63a6">
+      <img src="https://wakatime.com/badge/user/018b6691-b059-447b-99f2-485851dd63a6.svg" alt="Total time coded" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=GeneralK1ng" alt="Profile views" />
+  </div>
+</div>
 
-> <img align="right" width="300" src="./svg/general-k1ng.svg">
-> 
-> This nickname originated from my elementary school days and has stuck with me ever since. 
->
-> Cuz my family name is Jin in Chinese, it sounds like King.
-> 
-> You can just call me **General_K1ng**.
+<div>
+  <p>
+    <strong>"General_K1ng"</strong> — a name stuck since elementary school.<br/>
+    (My Chinese surname 金 sounds like <em>"King"</em> 👑)<br/>
+    Just call me <strong>General</strong>!
+    <img src="./svg/general-k1ng.svg" width="300" align="right" alt="General_K1ng's signature" />
+  </p>
 
+  <p>
+    <strong>Familiar with:</strong>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>, 
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>, 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  </p>
 
+  <p>
+    <strong>Currently exploring:</strong>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>, 
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>, 
+  </p>
+  <p> 
+    <em>"Share, collaborate, improve."</em>
+  </p>
+</div>
 
-<img align="right" width="300" src="./img/info.png">
+<hr/>
 
-### About Me 
+<h3>🌟 About Me</h3>
+<ul>
+  <li>🧑‍💻 CS @ <strong>XJTLU</strong> · Self-driven computing explorer</li>
+  <li>📍 Based in Suzhou 🏙️ · Xi’an 🏯 · From Wenzhou 🌊</li>
+  <li>📬 Reach me: <a href="mailto:generak1ng0@gmail.com">generak1ng0@gmail.com</a></li>
+  <li>🗣️ Languages: 中文 / English</li>
+  <li>🧩 Love open source, anime, and deep-diving into cool tech</li>
+</ul>
 
-- 💻 **Love for Computers**: Currently, a beginner in the vast world of computing. 
+<hr/>
 
-- 🎓 **Studying at**: **XJTLU**, majoring in the challenging field of Information and Computing Science. Any fellow students here? 
+<h3>❤️ Passions</h3>
+<pre style="font-size: 14px;">
+▫️ Coding   ▫️ Anime  
+▫️ Gaming   ▫️ Food  
+▫️ Sleeping ▫️ Learning
+</pre>
 
-- 📍 **Location**: 
-  - Based in Suzhou, Jiangsu <img align="center" width="28" src="./svg/location/苏州_suzhou.svg" />; 
-  - often found in Xi'an, Shaanxi <img align="center" width="25" src="./svg/location/西安地铁.svg" />; 
-  - hometown is Wenzhou, Zhejiang <img align="center" width="25" src="./svg/location/温州轨道交通.svg" />. 
+<hr/>
 
-- 🧩 **Hobbies**: Consider myself a casual anime fan?
+<h3>💯 Stats</h3>
 
-- 🚀 **Current Projects**: Working on some ~~amateur~~ open-source projects and continuously learning. 
-
-- 💔 **Current Status**: Single.
-
-
-
-**Language Options** <img align="center" width="25" src="./svg/contact/language.svg" />: 🇨🇳 [Chinese](#) / 🇬🇧 [English](#)
-
-**Mail me** <img align="center" width="25" src="./svg/contact/mail.svg" />: generak1ng0@gmail.com
-
-
-
-### I Enjoy
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeneralK1ng/GeneralK1ng/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeneralK1ng/GeneralK1ng/output/github-contribution-grid-snake.svg">
-  <img height="120" align="right" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GeneralK1ng/GeneralK1ng/output/github-contribution-grid-snake.svg">
-</picture>
-
-- 🍲 Eating 
-- 💤 Sleeping
-- 💻 Coding  
-- 📺 Watching anime
-- 🎮 Steam
-
-
-Feel free to visit my little corner of the blog <a href="https://generalk1ng.github.io"><code><img width="30" src="./svg/contact/blog.svg"></code></a>
-
-## Stats 💯
-
-<picture>
-  <img height="150" align="right" alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api?username=GeneralK1ng&count_private=true&show_icons=true&theme=tokyonight">
-</picture>
-
-### Tech Stack <img align="center" width="25" src="./svg/tech/correct.svg" />
-
-#### lang <img align="center" width="30" src="./svg/message-language.svg" />
-
-<a href="https://www.java.com/"><code><img width="35" src="./svg/lang/java.svg"></code></a>
-<a href="https://golang.google.cn/"><code><img width="35" src="./svg/lang/golang.svg"></code></a>
-<a href="https://www.python.org/"><code><img width="35" src="./svg/lang/Python.svg"></code></a>
-<a href="https://gcc.gnu.org/"><code><img width="30" src="./svg/lang/C.svg"></code></a>
-<a href="https://gcc.gnu.org/"><code><img width="35" src="./svg/lang/cpp.svg"></code></a>
-<a href="https://www.typescriptlang.org/"><code><img width="35" src="./svg/lang/typescript.svg"></code></a>
-<a href="https://www.w3school.com.cn/js/index.asp"><code><img width="35" src="./svg/lang/JavaScript.svg"></code></a>
-<a href="https://www.rust-lang.org/"><code><img width="35" src="./svg/lang/rust.svg"></code></a>
-
-
-#### tech <img align="center" width="30" src="./svg/technology.svg" />
-
-<a href="https://git-scm.com/"><code><img width="35" src="./svg/tech/git.svg"></code></a>
-<a href="https://www.mysql.com/"><code><img width="35" src="./svg/tech/mysql.svg"></code></a>
-<a href="https://nodejs.org/"><code><img width="35" src="./svg/tech/nodejs.svg"></code></a>
-<a href="https://zustand-demo.pmnd.rs/"><code><img width="35" src="./svg/tech/zustand.svg"></code></a>
-<a href="https://expo.dev/"><code><img width="35" src="./svg/tech/expo.svg"></code></a>
-<a href="https://www.docker.com/"><code><img width="35" src="./svg/tech/docker.svg"></code></a>
-<a href="https://www.anaconda.com/"><code><img width="35" src="./svg/tech/anaconda.svg"></code></a>
-<a href="https://redis.io/"><code><img width="35" src="./svg/tech/redis.svg"></code></a>
-<a href="https://ubuntu.com/"><code><img width="35" src="./svg/tech/ubuntu.svg"></code></a>
-<a href="https://www.centos.org/"><code><img width="35" src="./svg/tech/centos.svg"></code></a>
-<a href="https://kafka.apache.org/"><code><img width="35" src="./svg/tech/Kafka.svg"></code></a>
-<a href="https://kubernetes.io/"><code><img width="35" src="./svg/tech/kubernetes.svg"></code></a> 
-
-#### frameworks <img align="center" width="30" src="./svg/frame/frame.svg" />
-
-<a href="https://spring.io/"><code><img width="35" src="./svg/frame/bxl-spring-boot.svg"></code></a>
-<a href="https://flask.palletsprojects.com/"><code><img width="35" src="./svg/frame/flask.svg"></code></a>
-<a href="https://react.dev/"><code><img width="40" src="./svg/frame/React.svg"></code></a>
-<a href="https://vuejs.org/"><code><img width="35" src="./svg/frame/Vue.svg"></code></a>
-<a href="https://www.st.com/"><code><img width="35" src="./svg/frame/stm32.svg"></code></a>   
-
+<table width="100%">
+  <tr>
+    <td align="left">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeneralK1ng/GeneralK1ng/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeneralK1ng/GeneralK1ng/output/github-contribution-grid-snake.svg">
+        <img height="120" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GeneralK1ng/GeneralK1ng/output/github-contribution-grid-snake.svg">
+      </picture>
+    </td>
+    <td align="right">
+      <img height="150" src="https://github-readme-stats.vercel.app/api?username=GeneralK1ng&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+    </td>
+  </tr>
+</table>
