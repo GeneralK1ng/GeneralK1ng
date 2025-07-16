@@ -49,11 +49,11 @@
 
 <h3>❤️ Passions</h3>
 <ul>
-  <li>🧠 Exploring deep tech & system internals</li>
+  <li>🧠 Exploring deep tech</li>
   <li>📺 Watching anime (especially with a good OP 🎶)</li>
-  <li>🎮 Indie games, pixel art, and strategy sims</li>
+  <li>🎮 Indie games, FPS, and strategy sims</li>
   <li>🍜 Late-night coding + instant noodles</li>
-  <li>🛌 Sleeping like a log after debugging marathons</li>
+  <li>🛌 Sleeping</li>
   <li>📚 Always learning something new — even if obscure</li>
 </ul>
 
