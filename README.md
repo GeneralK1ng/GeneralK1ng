@@ -48,11 +48,14 @@
 <hr/>
 
 <h3>❤️ Passions</h3>
-<pre style="font-size: 14px;">
-▫️ Coding   ▫️ Anime  
-▫️ Gaming   ▫️ Food  
-▫️ Sleeping ▫️ Learning
-</pre>
+<ul>
+  <li>🧠 Exploring deep tech & system internals</li>
+  <li>📺 Watching anime (especially with a good OP 🎶)</li>
+  <li>🎮 Indie games, pixel art, and strategy sims</li>
+  <li>🍜 Late-night coding + instant noodles</li>
+  <li>🛌 Sleeping like a log after debugging marathons</li>
+  <li>📚 Always learning something new — even if obscure</li>
+</ul>
 
 <hr/>
 
