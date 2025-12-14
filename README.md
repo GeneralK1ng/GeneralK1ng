@@ -41,7 +41,7 @@
 <ul>
   <li>🧑‍💻 CS @ <strong>XJTLU</strong> · Self-driven computing explorer</li>
   <li>📍 Based in Suzhou 🏙️ · Xi’an 🏯 · From Wenzhou 🌊</li>
-  <li>📬 Reach me: <a href="mailto:generak1ng0@gmail.com">generak1ng0@gmail.com</a></li>
+  <li>📬 Reach me: <a href="mailto:me@generalk1ng.com">me@generalk1ng.com</a></li>
   <li>🗣️ Languages: 中文 / English</li>
   <li>🧩 Love open source, anime, and deep-diving into cool tech</li>
 </ul>
